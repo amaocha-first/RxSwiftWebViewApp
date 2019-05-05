@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftWebViewApp {
+  umbrella header "Pods-RxSwiftWebViewApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
